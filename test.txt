@@ -1,1 +1,10 @@
 So, hier mal eine Datei um zu testen, wie das hier geht.
+
+Der erste git- Befehl ist "git init"
+Dann ist vielleicht "git status" interessant.
+Um eine Datei in die Git- Beobachtung hinzuzufuegen "git add [Dateiname]"
+git commit -m "Hier eine Nachricht".
+git add * <= added alle Dateien.
+git add *.txt <= added alle .txt- Dateien.
+git log == zeigt die Ereignisse, die in diesem Repository passiert sind.
+
