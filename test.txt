@@ -7,4 +7,4 @@ git commit -m "Hier eine Nachricht".
 git add * <= added alle Dateien.
 git add *.txt <= added alle .txt- Dateien.
 git log == zeigt die Ereignisse, die in diesem Repository passiert sind.
-
+git remote add origin https://github.com/Weedymania/testdrive.git
