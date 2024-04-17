@@ -12,3 +12,9 @@ Greetings
 - Git besser lernen.
 - NeoVim einrichten und gut bedienen lernen
 - und bestimmt noch viel mehr
+
+### Wie's geht:
+
+- git add [Datei]
+- git commit -m "{Nachricht}"
+- git push -u origin main
